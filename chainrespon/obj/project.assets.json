@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "HttpClientFactory/1.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/HttpClientFactory.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/HttpClientFactory.dll": {}
+        },
+        "contentFiles": {
+          "contentFiles/any/netstandard2.0/MIT-LICENSE.txt": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HttpClientFactory/1.0.4": {
+      "sha512": "kVrmqYySeqh4rysquR9Hmi4nfgOeXOGeDIZ2fj+67nMnj8hnIdahQrg8M+tSHvTRNkIOReaR5k+g47Yl6OCcog==",
+      "type": "package",
+      "path": "httpclientfactory/1.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/MIT-LICENSE.txt",
+        "contentFiles/any/net45/MIT-LICENSE.txt",
+        "contentFiles/any/netstandard2.0/MIT-LICENSE.txt",
+        "httpclientfactory.1.0.4.nupkg.sha512",
+        "httpclientfactory.nuspec",
+        "lib/net45/HttpClientFactory.dll",
+        "lib/netstandard2.0/HttpClientFactory.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "HttpClientFactory >= 1.0.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\AG_2021SER01\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\depatn\\chainrespon\\chainrespon.csproj",
+      "projectName": "chainrespon",
+      "projectPath": "C:\\depatn\\chainrespon\\chainrespon.csproj",
+      "packagesPath": "C:\\Users\\AG_2021SER01\\.nuget\\packages\\",
+      "outputPath": "C:\\depatn\\chainrespon\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\AG_2021SER01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "HttpClientFactory": {
+            "target": "Package",
+            "version": "[1.0.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

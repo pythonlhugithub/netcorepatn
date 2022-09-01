@@ -1,0 +1,15 @@
+C:\depatn\chainrespon\bin\Debug\net6.0\chainrespon.exe
+C:\depatn\chainrespon\bin\Debug\net6.0\chainrespon.deps.json
+C:\depatn\chainrespon\bin\Debug\net6.0\chainrespon.runtimeconfig.json
+C:\depatn\chainrespon\bin\Debug\net6.0\chainrespon.dll
+C:\depatn\chainrespon\bin\Debug\net6.0\chainrespon.pdb
+C:\depatn\chainrespon\obj\Debug\net6.0\chainrespon.csproj.AssemblyReference.cache
+C:\depatn\chainrespon\obj\Debug\net6.0\chainrespon.GeneratedMSBuildEditorConfig.editorconfig
+C:\depatn\chainrespon\obj\Debug\net6.0\chainrespon.AssemblyInfoInputs.cache
+C:\depatn\chainrespon\obj\Debug\net6.0\chainrespon.AssemblyInfo.cs
+C:\depatn\chainrespon\obj\Debug\net6.0\chainrespon.csproj.CoreCompileInputs.cache
+C:\depatn\chainrespon\obj\Debug\net6.0\chainrespon.dll
+C:\depatn\chainrespon\obj\Debug\net6.0\refint\chainrespon.dll
+C:\depatn\chainrespon\obj\Debug\net6.0\chainrespon.pdb
+C:\depatn\chainrespon\obj\Debug\net6.0\chainrespon.genruntimeconfig.cache
+C:\depatn\chainrespon\obj\Debug\net6.0\ref\chainrespon.dll
