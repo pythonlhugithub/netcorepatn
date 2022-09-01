@@ -9,12 +9,21 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
- 
+
+ var replace=new Dictionary<string,string>{
+    {"-v","version"}
+ };
+
+builder.Configuration.AddCommandLine(args, replace);
+
  var version=builder.Configuration.GetValue<string>("version");
 
  Console.WriteLine(version);
 
 builder.Services.AddSingleton(version);
+
+
+
 
 var custom=new custom();
 
@@ -44,6 +53,10 @@ var ccc=builder.Configuration["customcon"];
 
 
  Console.WriteLine(ccc);
+
+
+
+
 
 var app = builder.Build();
 

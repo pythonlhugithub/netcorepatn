@@ -20,7 +20,12 @@ maanger.approvereport(expnse);
 
 //chain responcibility pattern
 
-var sp=new serviceproxy(null);
+// var sp=new serviceproxy(null);
 
-sp.get();
-sp.post("");
+// sp.get();
+// sp.post("");
+
+using var sp=new serviceproxy(null);
+
+ sp.get();
+  sp.post("");
