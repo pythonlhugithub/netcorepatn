@@ -1,0 +1,15 @@
+C:\depatn\longjob\obj\Debug\net6.0\longjob.csproj.AssemblyReference.cache
+C:\depatn\longjob\obj\Debug\net6.0\longjob.GeneratedMSBuildEditorConfig.editorconfig
+C:\depatn\longjob\obj\Debug\net6.0\longjob.AssemblyInfoInputs.cache
+C:\depatn\longjob\obj\Debug\net6.0\longjob.AssemblyInfo.cs
+C:\depatn\longjob\obj\Debug\net6.0\longjob.csproj.CoreCompileInputs.cache
+C:\depatn\longjob\bin\Debug\net6.0\longjob.exe
+C:\depatn\longjob\bin\Debug\net6.0\longjob.deps.json
+C:\depatn\longjob\bin\Debug\net6.0\longjob.runtimeconfig.json
+C:\depatn\longjob\bin\Debug\net6.0\longjob.dll
+C:\depatn\longjob\bin\Debug\net6.0\longjob.pdb
+C:\depatn\longjob\obj\Debug\net6.0\longjob.dll
+C:\depatn\longjob\obj\Debug\net6.0\refint\longjob.dll
+C:\depatn\longjob\obj\Debug\net6.0\longjob.pdb
+C:\depatn\longjob\obj\Debug\net6.0\longjob.genruntimeconfig.cache
+C:\depatn\longjob\obj\Debug\net6.0\ref\longjob.dll
